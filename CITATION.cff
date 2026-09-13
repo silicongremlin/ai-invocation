@@ -1,0 +1,9 @@
+ cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "AI Invocation"
+type: software
+authors:
+  - name: "Silicon Gremlin"
+repository-code: "https://github.com/silicongremlin/ai-invocation"
+abstract: "A compact O/R/T/C model for explicit action planning and validation."
+

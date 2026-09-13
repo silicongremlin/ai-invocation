@@ -1,0 +1,11 @@
+{
+  "id": "ai-invocation",
+  "name": "AI Invocation",
+  "type": "model",
+  "state": "active",
+  "domains": ["cognition", "education"],
+  "featured": true,
+  "website": "https://silicongremlin.io",
+  "publication": null,
+  "contact": "research@silicongremlin.io"
+}
