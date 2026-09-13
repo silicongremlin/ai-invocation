@@ -8,3 +8,8 @@ Run: `PYTHONPATH=implementations/python/src pytest implementations/python/tests`
 
 
 
+
+## License
+
+MIT. Fork it, modify it, and build your own version. This repository is provided as-is and carries no maintenance or support commitment.
+
